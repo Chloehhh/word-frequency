@@ -1,0 +1,54 @@
+Toyota exec not sure problems are solved; 
+Drama fills testimony on acceleration issue
+
+
+WASHINGTON -- In an often contentious hearing on Tuesday, Toyota's U.S. sales chief told members of Congress that he is "not totally" certain the automaker's recent recalls will prevent future cases of unintended acceleration.
+It was an eye-opening moment during a day that, even without that comment, was drama-filled and sometimes tear-streaked.
+Toyota -- fighting to protect its tattered reputation in the U.S. -- is essentially on trial, very publicly, in two days of U.S. House hearings into whether it properly handled recalls and other safety issues the past few years.
+"There was kind of an attempt to sweep everything under the rug, keep it under the table, not tell anybody and maybe it'll just go away," said Rep. Eliot Engel, D-N.Y., describing what he saw as Toyota's approach to unintended acceleration complaints at a hearing by a subcommittee of the House Energy and Commerce panel on Tuesday.
+"We kind of stubbed our toe," allowed Jim Lentz, chief operating officer of Toyota Motor Sales, the U.S. marketing unit of the big Japan-based car company.
+The automaker's global head, Akio Toyoda, plans to tell another congressional committee today that he accepts "full responsibility" for the safety problems. In his prepared remarks he specifically apologizes to "the members of the Saylor family for the accident in San Diego." Veteran California Highway Patrolman Mark Saylor, his wife, daughter and brother-in-law were killed Aug. 28 when their Lexus went out of control.
+The government links 34 total deaths to runaway Toyota and Lexus vehicles.
+Toyoda's personal apology, while not unusual for a Japanese executive, goes beyond the typical by singling out the tragic Saylor case.
+Today's hearing will be in front of the House Committee on Oversight and Government Reform. A Senate hearing is scheduled next month. Toyota also is the subject of a criminal investigation by the U.S. Attorney for the Southern District of New York for possible unspecified criminal issues in the recalls. And its disclosure policies for investors are under investigation by the Securities and Exchange Commission.
+Toyota recalled 8 million cars in the United States this year for two problems it blamed for unintended acceleration: ill-fitting floor mats jamming open poorly designed gas pedals, and flawed gas pedal assemblies that could hold the throttle open after the driver's foot is removed.
+Toyota should be looking harder at electronic glitches that might interfere with the vehicles' electronic throttle controls, some members of Congress said Tuesday, agreeing with two witnesses who testified against Toyota.
+They were Sean Kane, president of Safety Research & Strategies, a consultant working for trial attorneys suing Toyota, and David Gilbert, an associate professor of automotive technology at Southern Illinois University.
+Gilbert, spurred by the reports about Toyota acceleration, experimented on a 2010 Toyota Tundra to see if he could defeat the fail-safe system that Toyota says prevents electrical problems from causing unintended acceleration.
+"I had a notion that it was going to be a nearly impossible task (to defeat it). You can imagine my surprise when it was straightforward," he told members of the House Energy Committee and its subcommittee on oversight and investigations, which held the eight-hour Tuesday hearing. He repeated the test with the same result in a Toyota Avalon for an ABC News report Monday and in two other Toyota vehicles.
+Gilbert was able to bypass the fail-safe circuits, he said, and get the vehicle to accelerate -- and not trigger warning lights or generate a fault code in the vehicle diagnostic system that could have been spotted later by a repair technician.
+Toyota acknowledged it was able to duplicate the feat, but said it had to "sabotage" the system in ways that would never happen in normal use.
+Gilbert said it would be rare, but possible.
+He said the same techniques on other automakers' vehicles, including a General Motors Buick Lucerne, haven't been able to bypass the fail-safe systems meant to cut power to prevent runaways.
+A frightening experience
+Technical issues, though important, were almost a sideshow to testimony from a woman who survived a runaway Lexus.
+Rhonda Smith, of Sevierville, Tenn., cried as she recounted how she feared she would die when her 2007 Lexus raced down Interstate 40 as she desperately pushed the brakes and, she insists, shifted into every gear, including neutral and reverse, hoping to halt "this possessed car."
+She said she used the hands-free phone link to call her husband at 100 miles per hour because she wanted to hear his voice one last time. The car finally slowed on its own. She was unhurt.
+Until now, she said, nobody at Toyota or the National Highway Traffic Safety Administration has taken her complaint seriously.
+Lentz said he was embarrassed by the automaker's apparent callousness. He said he would meet with Smith and her husband and would have company engineers locate the car and go over it thoroughly to see if a problem could be found.
+Lentz later choked up and had to pause for water. Empathizing with Smith and with less-fortunate victims of runaway Toyotas, he recalled that his brother died in a crash 20 years ago, and "there's not a day that goes by that I don't think of it."
+Major issues raised
+Key points emerging from Tuesday's testimony:
+*The problem of runaway Toyotas isn't solved. Several members of the committee, referring to complaints in Toyota's own files, asked Lentz if he agreed with their tally that some 70% of the reports of unintended acceleration aren't involved in or resolved by the current recalls to fix mats and pedals.
+"That's probably fair to say," said Lentz.
+"You don't know if you've solved the problems, do you?" persisted Rep. Edward Markey, D-Mass.
+Lentz said the recalls for floor mats and sticking pedals "solved the issues we know of."
+*Japan's been calling the shots. Lentz told the subcommittee that when it comes to recalls, "Those decisions have been made in Japan in the past. But it's changing." Toyoda plans to say the same today.
+*Toyota hasn't kept up with its own growth in the U.S. Lentz: "The complexity of our product line grew" so much that "we outgrew our engineering resources. ... We had strategies to deal with that, but the strategies didn't work."
+*Toyota is installing brake-override systems -- which cut back power if the brakes and gas pedal are pushed at the same time -- as soon as possible on vehicles that are capable of having them, including vehicles already in customer hands. That should be another line of defense against unintended acceleration.
+*Lentz promised to send emergency teams within 24 hours to investigate severe cases of unintended acceleration. Toyota hasn't done that.
+*NHTSA "will not rest until we finally find out if electronics are part of the problem," Transportation Secretary Ray LaHood testified late in the day.
+He startled the panel, which had been implying that NHTSA needed more expertise to handle complex electronic investigations, by disagreeing.
+"We have 125 engineers now, including some electrical engineers. The idea we don't have the experts to do the work is not quite accurate. We do have the engineers."
+Told that his own staff had told the subcommittee otherwise, LaHood said: "I'm under oath here. If I'm going to lie about something, it's not going to be about engineers."
+Heard more than once
+Unanswered Tuesday and due to come up again at today's hearing: Why didn't Toyota jump on the unintended acceleration issue sooner?
+Committee members noted that the automaker recalled cars overseas in 2000 and 2003 for the problem, but didn't move on the matter in the U.S. until 2007, via a limited floor mat recall, though NHTSA says it saw problems as far back as 2003.
+The two panels holding hearings seemed in competition to spank Toyota hardest Tuesday. Throughout the proceedings, e-mails zinged from Oversight Committee members with quotes, advance testimony and other nuggets to pull attention back toward their session coming today. On the Washington scoreboard, it's more prestigious because it's a hearing of the full committee, not a subcommittee.
+And Toyota chief Toyoda, has agreed to appear.
+The back-to-back sessions will give Toyota probably its worst black eye in the U.S., also offering a platform for general anti-Toyota, or anti-foreign automaker, sentiment.
+Lentz wasn't able to defuse much of that Tuesday. He was shredded, for instance, by Rep. John Dingell, D-Mich., who, in machine-gun fashion, hit him with a string of questions and demanded "yes or no."
+Lentz had to answer "I don't know" to most.
+It prompted Rep. Betty Sutton, D-Ohio, to ask why Toyota sent him to represent it.
+Lentz said he was invited by the panel.
+Healey reported from McLean, Va. 

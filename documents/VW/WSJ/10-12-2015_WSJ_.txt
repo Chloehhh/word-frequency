@@ -1,0 +1,33 @@
+Volkswagen blames 'chain of mistakes' for scandal
+
+
+
+WOLFSBURG, Germany-- Volkswagen AG's emissions-cheating scandal stemmed from a "chain of mistakes" that began with the company's diesel push into the U.S. in 2005 and was never corrected, Chairman Hans Dieter Pötsch said Thursday.
+While offering few specifics, the company acknowledged that engineers introduced software that would lower emissions of nitrogen oxides in many of its diesel engines after realizing there was no legal way for those engines to meet tight U.S. emissions standards "within the required time frame and budget."
+A decade ago, Volkswagen's top management saw a niche in the market for diesel-powered passenger cars that had been gaining popularity in Europe but were still rare in the U.S.
+
+
+The problem, Mr. Pötsch said, was that the diesel-powered engines couldn't legally fulfill the strict emissions standards in the U.S. Instead, engineers installed software that could regulate nitrogen-oxide emissions differently, depending on whether the car was on the road or in the lab.
+"There was not one single mistake, but rather a chain of errors that was never broken," Mr. Pötsch said.
+He repeated Volkswagen's earlier statement that it believes only a handful of employees, including senior managers, were actively involved in the diesel fraud. He confirmed that nine employees had been removed from their jobs, but added that it remained unclear if all or any of them were guilty of wrongdoing.
+The company's internal investigation has determined that it was so hard to detect the fraud because the company's information-technology infrastructure and engine approval procedures were "insufficient" to spot the fraud.
+Even when technology to sufficiently reduce nitrogen-oxide emissions was available, Volkswagen "did not use this as would have been possible," Mr. Pötsch said.
+An independent investigation being conducted by U.S. law firm Jones Day will still take months to reach a conclusion, Mr. Pötsch said. Jones Day has secured 102 terabytes of data, the equivalent of 50 million books, and 1,500 computers, smartphones and other data sources, Volkswagen said. More than 380 VW employees are involved in the investigation.
+"One thing is clear, we are in the middle of the greatest test this company has ever faced," Mr. Pötsch said, adding that the company was in the process of identifying the responsible parties. "You can be certain: These people will be brought to justice."
+The deceptions was disclosed in September by the U.S. Environmental Protection Agency, which issued an official notice of violation saying that Volkswagen had installed a defeat device to circumvent emissions tests on about 500,000 diesel-powered cars in the U.S.
+Days later, Volkswagen admitted that the same software was installed on nearly 11 million vehicles world-wide. Chief Executive Martin Winterkorn resigned and was replaced by Matthias Müller, who had run Volkswagen's Porsche sports-car unit.
+Since then, roughly 50 employees have stepped forward with information about the defeat device, according to a company spokesman, taking part in a whistleblower protection program that Volkswagen set up to assist the investigation.
+Mr. Pötsch's comments suggest that Volkswagen believes the diesel fraud began under Mr. Winterkorn's predecessor, Bernd Pischetsrieder, who was ousted as chief executive at the end of 2006, and Wolfgang Bernhard, who ran the Volkswagen brand and launched the diesel offensive. Messrs. Pischetsrieder and Bernharder have both denied any knowledge of the fraud and offered to give sworn testimony to that effect.
+The diesel deception continued under Mr. Winterkorn, who has denied any knowledge of the diesel fraud.
+Defeat devices were initially found on 1.6-liter and 2-liter EA189 diesel engines used by Volkswagen's namesake VW brand, Skoda, SEAT and some Audi vehicles. In November, the EPA disclosed that larger 3-liter engines built by luxury car maker Audi and used on Audi, VW and Porsche vehicles also contained defeat devices. Audi later confirmed the EPA's claim.
+In addition to the diesel affair, Volkswagen also admitted that it had understated greenhouse-gas emissions and fuel consumption on as many as 800,000 cars, mainly in Europe.
+Volkswagen is also the subject of criminal investigations in the U.S. and Germany. In Germany, prosecutors in Braunschweig, the office that has jurisdiction over Wolfsburg, have launched two preliminary investigations.
+One is directly related to the diesel-emissions fraud and prosecutors say they are focusing on six people, including current employees, and they could add people who no longer work at the company.
+A second investigation is looking into allegations of tax evasion connected with Volkswagen's admission that it provided false information about greenhouse-gas emissions on some diesel and gasoline-powered cars. Prosecutors have identified five people that they are focusing on in the tax-evasion investigation.
+"In both of these investigations we have determined there is sufficient cause to continue investigating," a spokesman for the prosecutor's office said.
+This week, The Wall Street Journal reported that Volkswagen in 2000 also failed to disclose to U.S. regulators the existence of a sensor that could affect emissions in Audi models, and did not report faults in those sensors to California authorities. The company declined to comment on the sensors.
+On Wednesday, Volkswagen said far fewer vehicles were found to have false CO2 data in their certification papers and said the company would no longer need a EUR2 billion ($2.2 billion) provision to pay for CO2-related damages.
+As the company's sales plunge in the U.S., a low-volume market for Volkswagen, China's auto market appears to be picking up again, with sales rising 24% in November from a year earlier. China is Volkswagen's biggest market and stronger growth there could more than offset the decline in the U.S. and Europe.
+Investors are still wary about VW's future, given the many unknowns including the still incalculable penalties and litigation costs that could arise in the U.S. But investors have taken the small bits of good news this week to drive the company's stock higher.
+Mr. Müller said the company would overcome the crisis.
+"No matter how bad this seems, this company will not fall apart over this," he said.

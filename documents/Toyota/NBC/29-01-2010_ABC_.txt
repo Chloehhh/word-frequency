@@ -1,0 +1,40 @@
+ 
+
+Search NBCNews.com
+  
+No easy answer to why Toyota accelerators stick
+Experts say it is likely a series of issues rather than a single problem
+
+Earl Stewart, owner of Earl Stewart Toyota, in North Palm Beach, Fla., gestures to the accelerator of a recalled Toyota.
+ 
+
+WASHINGTON — For a century, the basic idea behind pressing the accelerator on a car has been pretty straightforward. What's going wrong with some Toyotas isn't simple.
+Experts say the sudden acceleration problem that has put the brakes on Toyota sales and production is likely not a single problem but an alignment of complicated interconnected conditions.
+Nothing illustrates that more than the contradictory statements from the two companies involved. Toyota Motor Corp. is telling the government that it thinks a friction problem in its accelerator pedal mechanisms may make the pedal "harder to depress, slower to return, or, in the worst case, mechanically stuck in a partially depressed position."
+CTS Corp., the Elkhart, Ind., supplier that makes the devices for Toyota, said in a statement Wednesday that the friction problem accounts for fewer than a dozen cases of stuck accelerators, "and in no instance did the accelerator actually become stuck in a partially depressed condition."
+If there were a simple answer, a one-thing gone wrong glitch with a fix, it's unlikely Toyota would be in the mess it's now in.
+When Toyota recalled 4.2 million vehicles last fall, it said it was because floor mats were interfering with the pedals. That may have been an issue, but now the company is saying it's latest recall of 2.3 million vehicles is linked to worn pedal mechanisms that increase friction in certain conditions and cause the accelerator to stick sometimes.
+On Thursday, Toyota announced it was extending the recalls to China and Europe and recalling an additional 1.09 million vehicle in the U.S.
+Outside safety experts say possible causes also include the complicated electronic sensors that relay the message from the gas pedal to the engine, the design and location of the sensor system, a lack of a fail-safe override mechanism, and even a certain media-fed awareness that puts more people on the lookout for the problem.
+Academic researchers say the rarity of sudden acceleration problems is a telling sign to the difficulty of determining what's going wrong.
+"This is very unusual and happens on a very rare circumstance, and a whole bunch of things have to happen simultaneously," said Raj Rajkumar, head of Carnegie Mellon University's automotive research lab. It's like lots of unlikely lottery hits happening at the same time, but with millions of Toyotas, they do happen.
+Sean Kane, president of Safety Research and Strategies Inc., a Massachusetts-based car safety investigation and advocacy group, said he's certain there is no single cause. He said he's logged thousands of stuck gas pedal complaints.
+"We are convinced that this a multifaceted problem," Kane said. "You've got a multitude of problems that are coming to the surface that result in one thing: unintended acceleration."
+How an accelerator pedal is supposed to operate is anything but complicated. Stepping on the pedal starts a chain of events to open the throttle, sending more gas and air into the engine. The car goes faster. Stop pressing on the gas, the engine's speed decreases and the car slows down.
+At first, the pedal was directly linked to the throttle, or hydraulics did the job. Then more than a decade ago, electronics started handling the relay. It's part of an overall switch to computer controls seen throughout the transportation industry.
+Most throttle systems on modern vehicles are electronic. Typically, the driver steps on the accelerator and gets resistance back from a spring. The movement activates components in the pedal assembly that send an electronic signal to the engine-control computer, and a signal from the computer feeds more fuel to the engine.
+In documents provided to the government, Toyota indicated the mechanical problem that causes the pedal to stick occurs when water condenses inside the system when the heater is on. The company also thought a material used to make the pedal system was a problem, so it switched to a different material, but the problem persisted.
+Toyota spokesman Mike Michels said Wednesday that the company wouldn't discuss the mechanics of the pedal and the possible causes of the problem "because the engineering investigation is ongoing."
+Craig Hoff, a professor of mechanical engineering at Kettering University in Flint, Mich., said the pedal assemblies typically contain a Teflon bearing that would not be affected by temperature, so it's unlikely the problem is connected to weather conditions. He has not specifically studied the Toyota case but said the problem could be linked to the mechanical spring that pushes back when someone hits the accelerator.
+"If I was going to sit here and guess, I'd start thinking about something is binding — either there's friction that's too high somewhere or another issue is that spring is not strong enough to push back," said Hoff, who has worked on accelerator systems.
+The problem could also be connected to the electronics relay system — something Toyota highlighted in a video more than a dozen years ago touting its "electronic throttle control system with intelligence."
+A few years ago, the company sent out a technical bulletin saying some cars accelerate on their own between 38 and 42 mph, and it reprogrammed the electronics with new software codes, Kane said.
+John Heywood, director of the Sloan Automotive Lab at MIT, said because Toyota is the only automaker having this problem, it could be something specific to its design, such as the location and integration of the electronics relay sensor.
+"These are very complex systems," Rajkumar said. "One ought to expect that there will be glitches like these."
+CTS, which relies on Toyota for 3 percent of its annual sales, supplies similar parts for Honda Motor Co., Nissan Motor Co. and Mitsubishi Motors Corp.
+But auto suppliers typically design parts based on the specifications of the individual automaker, and a part's installation and operation can vary based on the vehicle. The three other automakers said they had received no complaints about their accelerator pedals.
+A key problem appears to be the absence of a mechanism that overrides the accelerator if the gas and brake pedals are pressed at the same time, Kane said. In the recall last year involving floor mats, Toyota told the government it would retrofit some vehicles with that feature.
+Such a mechanism, called a "brake-to-idle algorithm," is an important fail-safe, Kane said. He said some other automakers already have them, and Rajkumar said more will install them in the future.
+In the late 1980s, the government investigated complaints that Audi 5000 vehicles would suddenly accelerate when the vehicle shifted from park to drive or reverse. The National Highway Traffic Safety Administration found that most of the incidents were caused by drivers putting their feet on the wrong pedals.
+But the safety agency found that vehicle recalls were necessary for the safety of the Audi 5000, whose sales plummeted after a major 1986 recall. Audi modified the accelerator and brake pedals, installed systems that prevent shifting from park unless the brake is pressed, and corrected idle speed control systems to address the problem.
+Heywood, who isn't familiar with the specifics of Toyota's situation but has studied sudden acceleration problems in other cars and was part of a panel looking into the Audi problem, said media attention caused more people to be aware of the Audi problem, and then more people reported it.

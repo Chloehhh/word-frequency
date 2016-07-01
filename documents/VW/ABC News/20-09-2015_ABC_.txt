@@ -1,0 +1,34 @@
+Volkswagen Scandal: How a 'Defeat Device' Can Trick Car Emissions Tests
+By SUSANNA KIM  Sep 21, 2015, 4:20 PM ET
+
+Volkswagen is accused by U.S. regulators of using illegal "defeat device" software so that about 500,000 of its diesel cars could cheat on emissions standards tests. And it turns out it's easier than some people may think for manufacturers to cheat, according to car experts.
+
+Though Kelley Blue Book senior analyst Karl Brauer isn't familiar with a car company other than Volkswagen being accused of using software to cheat on emissions standards tests, he said it's "easy to do."
+
+"It's totally feasible because cars are so high tech today," Brauer said. "It's fairly easy to make drastic changes to engine tuning in a split second due to the capabilities of computers in cars. It's not only possible but it's easier to do with today's high-tech cars than before."
+
+VW Chief Under Fire After Emissions Scandal and Stock Slide
+VW Chief "Sorry" After EPA Says Firm Skirted Clean Air Law
+For emissions tests, the tester, such as a dealership or car mechanic, places a sensor in the vehicle's exhaust pipe that measures pollutants while the car is idle and while it is in simulated driving mode during various engine RPMs.
+
+A "defeat device," as it is called unofficially, is computer code in a car's electronic control unit that is triggered during emissions tests, Brauer said. This software can then temporarily cut emissions, so the engine appears to be much cleaner that it is during normal operation.
+
+PHOTO: Volkswagen Beetles are offered for sale at a dealership on Sept. 18, 2015 in Chicago.Scott Olson/Getty Images
+Volkswagen Beetles are offered for sale at a dealership on Sept. 18, 2015 in Chicago.
+The "defeat device" software programming is forbidden in the U.S. and also in Europe, where diesel cars are much more prevalent. They can come in many forms, but are essentially an algorithm in the electronics or the car's computer system that detects when the car is being tested and switches on full emission controls, explained Christian Stadler, Warwick Business School professor of strategic management, in the U.K.
+
+"But once it is on the road, these controls are switched off," Stadler said.
+
+Volkswagen announced on Friday that it received a notice from the U.S. Environmental Protection Agency, Department of Justice and the California Air Resources Board of an investigation "related to certain emissions compliance matters."
+
+"As environmental protection and sustainability are among Volkswagen's strategic corporate objectives, the company takes this matter very seriously and is cooperating with the investigation," the company said in a statement on Friday. "Volkswagen is committed to fixing this issue as soon as possible. We want to assure customers and owners of these models that their automobiles are safe to drive, and we are working to develop a remedy that meets emissions standards and satisfies our loyal and valued customers. Owners of these vehicles do not need to take any action at this time."
+
+However, Volkswagen told dealers to halt sales of both new vehicles and certified pre-owned cars equipped with the 4-cylinder 2.0 TDI engine. Audi also implemented a stop-sale for its only model with that same engine, the A3 2.0 TDI. On Sunday, the company said it launched an external investigation.
+
+Volkswagen CEO Martin Winterkorn said in a statement on Sunday, "I personally am deeply sorry that we have broken the trust of our customers."
+
+Diesel cars are less popular in the U.S. than traditional gas engines that use a spark plug. But in Europe, they comprise more than 50 percent of cars on the road. But in the last ten years, diesel cars have been growing in popularity in the U.S. beyond the buses and trucks that rely on diesel's greater torque and fuel efficiency, Brauer said. That's due to advances in car technology and performance. Mercedes Benz, BMW, as well as Dodge Ram offer diesel options.
+
+But the latest news about Volkswagen is "unfortunate for diesel technology," Brauer said.
+
+"It's already seen by a lot of Americans as dirty compared to traditional gasoline-powered cars, but it isn't," Brauer said. "With modern technology, it's extremely clean."

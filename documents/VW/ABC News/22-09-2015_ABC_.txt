@@ -1,0 +1,35 @@
+How Volkswagen Fooled Regulators Around the World
+By SUSANNA KIM DAVID KERLEY  Sep 22, 2015, 3:30 PM ET
+ PHOTO:The VW Logo is photographed at a car at the Car Show in Frankfurt, Sept. 22, 2015.
+
+An investigation by a group of American technicians finally helped bring to light Volkswagen's attempts to dupe regulators around the world regarding diesel car emissions.
+
+"In meeting after meeting, Volkswagen would tell us they thought it was this or that," Stanley Young, California Air Resources Board's director of communications, told ABC News. "We would go to the lab and try to fix it ourselves. Every time we kept on finding the same result."
+
+Volkswagen is accused by U.S. regulators of using illegal "defeat device" software that causes nearly 500,000 of its diesel cars to cheat on emissions standards tests. Today, Volkswagen said the emissions scandal involves 11 million of its diesel cars worldwide.
+
+Volkswagen Scandal: How a 'Defeat Device' Can Trick Car Emissions Tests
+VW Chief "Sorry" After EPA Says Firm Skirted Clean Air Law
+"It was a case of dogged determination on the part of our technicians," Young said.
+
+The discovery of a discrepancy between emissions on the test bench and those in real life was first sparked by regulatory counterparts in Europe. Last year, the European Commission solicited a study, with the involvement of its Joint Research Centre, to take a closer look at American diesel cars because they seemed to burn fuel more cleanly than European ones. The International Council on Clean Transportation responded and offered the services of the California Air Resources Board, which ensures that cars sold in California are in compliance with state standards, according to Young.
+
+The California Air Resources Board's findings validated those of their European counterparts: that emissions in the real world were 10 to 40 times higher than they were on the test bench.
+
+"We began looking at the diagnostic system and that was how we discovered the computer of the car was sending unexpected signals to the engine," Young explained.
+
+In early 2015 the California Air Resources Board set up various meetings with Volkswagen representatives to review the European and California findings.
+
+"We wanted to find out from Volkswagen what their explanation was for (the discrepancies in emissions) and to remedy it and to get the car driving clean again," Young said.
+
+"When we presented Volkswagen with those findings, they finally ran out of excuses or lies at that point," Young added. "They admitted there was in fact this defeat device, which essentially means the car can sense when it was being tested or on the road. When it was on the road it would shift to a whole different set of commands."
+
+Volkswagen CEO Martin Winterkorn apologized on Sunday that the company had "broken the trust of our customers" but has not offered his resignation. Today, he said the company is cooperating with appropriate authorities, including the German Federal Transport Authority, and the company is setting aside 6.5 billion euros, or about $7.3 billion, "to cover the costs of notable service expenses and other concerns and to win back the trust of our customers."
+
+Volkswagen USA CEO Michael Horn, speaking at an event in Brooklyn on Monday, acknowledged the company's duplicity. "We totally screwed up," he said.
+
+Volkswagen announced on Friday that it received a notice from the U.S. Environmental Protection Agency, Department of Justice and the California Air Resources Board of an investigation "related to certain emissions compliance matters."
+
+Volkswagen said it is cooperating with the investigation, adding, "We want to assure customers and owners of these models that their automobiles are safe to drive, and we are working to develop a remedy that meets emissions standards and satisfies our loyal and valued customers. Owners of these vehicles do not need to take any action at this time."
+
+Volkswagen did tell dealers to halt sales of both new vehicles and certified pre-owned cars equipped with the 4-cylinder 2.0 TDI engine. Audi, which is owned by Volkswagen, also implemented a stop-sale for its model with that same engine, the A3 2.0 TDI. On Sunday, the company said it launched an external investigation.

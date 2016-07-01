@@ -1,0 +1,23 @@
+Toyota Evaluates Unintended Acceleration Complaints in Remedied Vehicles
+
+March 04, 2010
+Brake Override System Operation Explained
+ 
+TORRANCE, Calif., March 4, 2010 – Toyota Motor Sales (TMS), U.S.A., Inc., has received verifiable information from the National Highway Traffic Safety Administration (NHTSA) about some vehicles whose owners have reported unintended acceleration after receiving the accelerator pedal recall remedies.  As soon as Toyota received the vehicle owner information from NHTSA, it moved quickly to evaluate the vehicles and interview the owners.
+ 
+Although most of these reports have yet to be verified, Toyota has been and remains committed to investigating all reported incidents of sudden acceleration in its vehicles quickly.  Toyota wants to hear directly from its customers about any problems they are experiencing with their vehicles.
+ 
+The results of the evaluations have been submitted to NHTSA for review.  Though these reports involve a tiny fraction of the more than one million vehicles dealers have repaired to date, Toyota takes them extremely seriously.
+ 
+As NHTSA is now reviewing the results of our evaluations, it is inappropriate for Toyota to provide specific information about the company’s conclusions.  However, the evaluations have found no evidence of a failure of the vehicle electronic throttle control system, the recent recall remedies or the brake override system.
+ 
+It is important to note that many complaints submitted to NHTSA either are unverifiable or lack the vehicle owner information required to facilitate follow-up.  Nonetheless, Toyota is quickly investigating verifiable complaints of unintended acceleration and doing everything it can to ensure that our customers are confident in their vehicles and the remedies.
+ 
+About the Brake Override System
+The brake override system is designed to stop the vehicle when the brake pedal is firmly pressed in cases in which acceleration is caused by mechanical interference with the accelerator pedal.
+ 
+However, if the brake pedal is released, while there is still mechanical interference with the pedal, the vehicle may again accelerate. Therefore, once the vehicle brought to a safe stop, the transmission gear selector should be put into neutral or park position before turning off the engine.  In this case, drivers are asked to contact their nearest Toyota dealer.
+ 
+For practical reasons, the brake override system does not engage if the brake pedal is pressed before the accelerator pedal.  For example, this allows for vehicles starting on a steep hill to safely accelerate without rolling backwards.  Also, while the brake override system is engaged, if the brake pedal is released or if the accelerator pedal moves more than a certain amount, the brake override system will disengage in order to give precedence to the driver intention.
+ 
+The brake override system does not engage when the vehicle moves at speeds less than approximately five miles per hour, at which point the vehicle can be stopped safely.

@@ -1,0 +1,34 @@
+Toyota Begins Interim Notification to Owners Regarding Future Voluntary Safety Recall Related to Floor Mats
+
+November 02, 2009
+Letter Confirms No Defect Exists in Vehicles with Properly Installed Floor Mats
+ 
+TORRANCE, Calif., November 2, 2009 - - Toyota Motor Sales (TMS), U.S.A., Inc., today announced that it has begun mailing letters to owners of certain Toyota and Lexus models regarding the potential for an unsecured or incompatible driver’s floor mat to interfere with the accelerator pedal and cause it to get stuck in the wide-open position. 
+ 
+The letter, in compliance with the National Traffic and Motor Vehicle Safety Act and reviewed by the National Highway Traffic Safety Administration (NHTSA) also confirms that no defect exists in vehicles in which the driver’s floor mat is compatible with the vehicle and properly secured.
+ 
+The Toyota finding is consistent with a recent decision by NHTSA denying a request for an additional investigation of unwanted and unintended acceleration of model year 2007 Lexus ES350 vehicles and model years 2002-2003 Lexus ES300.  After conducting an extensive technical review of the issue, including interviews with consumers who had complained of unwanted acceleration,  NHTSA concluded that “…the only defect trend related to vehicle speed control in the subject vehicles involved the potential for accelerator pedals to become trapped near the floor by out-of-position or inappropriate floor mat installations.” 
+ 
+This is the sixth time in the past six years that NHTSA has undertaken such an exhaustive review of allegations of unintended acceleration on Toyota and Lexus vehicles and the sixth time the agency has found no vehicle based cause for the unwanted acceleration allegations.
+ 
+“The question of unintended acceleration involving Toyota and Lexus vehicles has been repeatedly and thoroughly investigated by NHTSA, without any finding of defect other than the risk from an unsecured or incompatible driver’s floor mat,” said Bob Daly, TMS senior vice president.
+ 
+“Toyota takes public safety seriously. We believe our vehicles are among the safest on the road. Our engineers are working hard to develop an effective remedy that can help prevent floor mat interference with the pedal.  As soon as it is ready, we will notify owners of the relevant models to bring their vehicle to a dealer for the necessary modification at no charge,” Mr. Daly added.
+ 
+In the recently completed investigation, NHTSA conducted extensive testing on a Lexus ES350.  The agency reported that:
+ 
+“The vehicle was fully instrumented to monitor and acquire data relating to yaw rate, speed, acceleration, deceleration, brake pedal effort, brake line hydraulic pressure, brake pad temperature, engine vacuum, brake booster vacuum, throttle plate position, and accelerator pedal position. Multiple electrical signals were introduced into the electrical system to test the robustness of the electronics against single point failures due to electrical interference. The system proved to have multiple redundancies and showed no vulnerabilities to electrical signal activities. Magnetic fields were introduced in proximity to the throttle body and accelerator pedal potentiometers and did result in an increase in engine revolutions per minute (RPM) of up to approximately 1,000 RPM, similar to a cold-idle engine RPM level. Mechanical interferences at the throttle body caused the engine to shut down.”
+ 
+The Toyota letter is an interim notice to owners of a future voluntary safety recall campaign.  The following models are affected:
+ 
+• 2007 – 2010 Camry
+• 2005 – 2010 Avalon
+• 2004 – 2009 Prius
+• 2005 – 2010 Tacoma
+• 2007 – 2010 Tundra
+• 2007 – 2010 ES350
+• 2006 – 2010 IS250 and IS350
+ 
+Until Toyota develops a remedy, it is asking owners of affected Toyota and Lexus models to take out any removable driver’s floor mat and NOT replace it with any other floor mat.
+ 
+The Toyota letter also informs owners of what to do if they experience accelerator pedal interference, general floor mat warnings and proper floor mat application information.  Owners who have further questions are asked to visit http://www.toyota.com/floormats or http://www.lexus.com/floormats where the owner letter in its entirety can also be viewed. The most recent NHTSA report can be viewed on these websites as well.
